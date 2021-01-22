@@ -53,7 +53,7 @@ var totalHotelCost = hotelCost(13);
 console.log(totalHotelCost);
 
 
-// Problem No.3
+// Problem No.4
 
 function megaFriend(name){
 	var max = 0;
